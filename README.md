@@ -1,21 +1,33 @@
+# TechmoNoway
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kytechmo.tri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Trí Kỳ Nguyễn) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechmoNoway%2FTechmoNoway&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/trikynguci)](https://twitter.com/trikynguci)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trí-kỳ-nguyễn-016050241/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/KennyWill/)](https://www.instagram.com/KennyWill)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nguyentriky0604@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
+[![Github](https://img.shields.io/github/followers/TechmoNoway?label=Follow&style=social)](https://github.com/TechmoNoway)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TechmoNoway&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TechmoNoway&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechmoNoway&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 💻 Owner of [**Meowlearn**](https://github.com/TechmoNoway) github organization. Check it out for daily Java and Web Designing.
+- 🤔 I’m currently reading [Architecture Patterns with Java](https://meowlearn.vercel.app). Check it out if interested.
+- 🌱 I also teach Java Springboot, Git, etc. Visit NextJS website, [Meowlearn](https://www.meowlearn), and also my [teaching material](https://github.com/meowlearn).
+- 📫 How to reach me: nguyentriky0604@gmail.com
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TechmoNoway&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🖥 Skills
+
+- System Design
+- Web Designing
+- App Designing
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Springboot-05122A?style=for-the-badge&logo=Springboot&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-ReactJS-05122A?style=for-the-badge&logo=ReactJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=NextJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=NodeJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQLSERVER-05122A?style=for-the-badge&logo=SQLSERVER&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=Flutter&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechmoNoway&show_icons=true&locale=en&layout=compact" alt="TechmoNoway" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=TechmoNoway&" alt="TechmoNoway" />
+</div>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TechmoNoway&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
