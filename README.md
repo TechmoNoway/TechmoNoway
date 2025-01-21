@@ -24,6 +24,7 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TechmoNoway"><img src="https://github-readme-stats.vercel.app/api?username=TechmoNoway&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="TechmoNoway's GitHub stats" /></a>
-
-<a href="http://www.github.com/TechmoNoway"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TechmoNoway&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechmoNoway&show_icons=true&locale=en&layout=compact" alt="TechmoNoway" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=TechmoNoway&" alt="TechmoNoway" />
+</div>
