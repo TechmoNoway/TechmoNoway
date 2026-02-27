@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const ky = {
@@ -35,7 +35,7 @@ const ky = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="center">
@@ -86,7 +86,7 @@ const ky = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TechmoNoway&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -103,7 +103,7 @@ const ky = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TechmoNoway&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -111,7 +111,7 @@ const ky = {
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
